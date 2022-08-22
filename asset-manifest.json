@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/national-parks/static/css/main.c71af89c.css",
+    "main.js": "/national-parks/static/js/main.028b5fa0.js",
+    "static/js/787.72b9c920.chunk.js": "/national-parks/static/js/787.72b9c920.chunk.js",
+    "static/media/pexels-rudolf-jakkel-418831.jpg": "/national-parks/static/media/pexels-rudolf-jakkel-418831.f5b9160fa4d799de1a62.jpg",
+    "index.html": "/national-parks/index.html",
+    "main.c71af89c.css.map": "/national-parks/static/css/main.c71af89c.css.map",
+    "main.028b5fa0.js.map": "/national-parks/static/js/main.028b5fa0.js.map",
+    "787.72b9c920.chunk.js.map": "/national-parks/static/js/787.72b9c920.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c71af89c.css",
+    "static/js/main.028b5fa0.js"
+  ]
+}
